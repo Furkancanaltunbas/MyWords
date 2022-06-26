@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314106806926",
+    "firebase_url": "https://sozlukapp-83c74-default-rtdb.firebaseio.com",
+    "project_id": "sozlukapp-83c74",
+    "storage_bucket": "sozlukapp-83c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314106806926:android:1cabac51e7c9c6fae6bfdf",
+        "android_client_info": {
+          "package_name": "com.example.sozluk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314106806926-vtmvimgbau41nmvg70ltkrqrfd7qujlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzvlCxIIM3FP6tHyPI5ISAgYKgIFedRj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314106806926-vtmvimgbau41nmvg70ltkrqrfd7qujlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

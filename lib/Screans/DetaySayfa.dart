@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sozluk_app/Model/Kelimeler.dart';
+
+import '../init/Model/Kelimeler.dart';
 
 class detaySayfaWidget extends StatelessWidget {
   Kelimeler kelime;
